@@ -1,0 +1,25 @@
+2025-03-02 00:09:50.8282|INFO|DS4Windows version 3.3.3
+2025-03-02 00:09:50.8342|INFO|DS4Windows exe file: DS4Windows.exe
+2025-03-02 00:09:50.8342|INFO|DS4Windows Assembly Architecture: x64
+2025-03-02 00:09:50.8342|INFO|OS Version: Microsoft Windows NT 10.0.19045.0
+2025-03-02 00:09:50.8342|INFO|OS Product Name: Windows 10 Home
+2025-03-02 00:09:50.8342|INFO|OS Release ID: 2009
+2025-03-02 00:09:50.8342|INFO|System Architecture: x64
+2025-03-02 00:09:50.8342|INFO|Logger created
+2025-03-02 00:09:51.6314|INFO|LinkedProfiles.xml can't be found.
+2025-03-02 00:09:58.2801|INFO|Running as User
+2025-03-02 00:09:59.7176|INFO|Starting...
+2025-03-02 00:10:01.7191|INFO|Some applications may block controller inputs. (Windows UAC Conflictions). Please go to https://ryochan7.github.io/ds4windows-site/troubleshooting/kb-mouse-issues/#windows-not-responding-to-ds4ws-kb-m-commands-in-some-situations for more information and workarounds.
+2025-03-02 00:10:01.7191|INFO|Using output KB+M handler: SendInput
+2025-03-02 00:10:01.7191|INFO|Connection to ViGEmBus 1.21.442.0 established
+2025-03-02 00:10:01.7191|INFO|Searching for controllers...
+2025-03-02 00:10:01.7191|INFO|Using Shared Mode
+2025-03-02 00:10:01.7849|INFO|Found Controller: F8:D8:01:9A:FC:6C (USB) (DS4 v.2).
+2025-03-02 00:10:01.9897|INFO|Controller 1 is using Profile "Default". Battery level is 54%
+2025-03-02 03:59:29.9149|INFO|User Session Ending
+2025-03-02 03:59:29.9332|INFO|Stopping Virtual Output Controllers
+2025-03-02 03:59:29.9332|INFO|Closing connection to ViGEmBus
+2025-03-02 03:59:29.9610|INFO|Gamepad data write connection is lost. Disconnecting the gamepad. LastErrorCode=995
+2025-03-02 03:59:30.0247|INFO|Stopping DS4 Input Controllers
+2025-03-02 03:59:30.0247|INFO|Stopped DS4Windows
+2025-03-02 03:59:30.0247|INFO|Closing connection to output handler SendInput
